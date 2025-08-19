@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940751241576",
+    "project_id": "ganraj-ganesh-mandal",
+    "storage_bucket": "ganraj-ganesh-mandal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940751241576:android:decd158b0b96f6cb0e96dd",
+        "android_client_info": {
+          "package_name": "com.ganraj.ganeshmandal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsjofylcuLD8DoeoL4ZkMHQhcmQhI0Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940751241576:android:657b2620df9ebd9d0e96dd",
+        "android_client_info": {
+          "package_name": "com.ganraj.mandalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsjofylcuLD8DoeoL4ZkMHQhcmQhI0Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
